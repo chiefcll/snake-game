@@ -1,4 +1,4 @@
 # Snake Game
 
-<video src="public/SnakeGame.mp4" controls="controls" style="max-width: 100%;">
-</video>
+https://github.com/user-attachments/assets/f5b788a1-3b59-42ac-813e-49b752f9acb0
+
